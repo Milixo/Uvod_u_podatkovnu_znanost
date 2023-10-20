@@ -95,7 +95,7 @@ This understanding will guide the design and functionality of our app to better 
 
 **ChatGPT prompts that used to configure sitemap:**
 1. _Propose a set of 10 topics related to vaccanation._
-2. _Assume the role of dr.Sarah Mitchell (persona 1) and categorize and label the proposed topics. Dr. Sarah Mitchell represents a category of pediatrian doctor with great empathy._
+2. _Assume the role of Dr.Sarah Mitchell (persona 1) and categorize and label the proposed topics. Dr. Sarah Mitchell represents a category of pediatrian doctor with great empathy._
 3. _Next, act as Dr. John Anderson (persona 2 ) pediatrician doctor  and run the same task. Dr. John Anderson is  a person who is focused on highly verified vaccines._
 4. _As Dr. Maria Sanchez (persona 3), a pediatrician who is not sufficiently educated about all the side effects of vaccines, I would approach categorizing and labeling vaccination topics with a focus on learning and gaining a better understanding of vaccines and their safety._
 5. _ok, Dr. Daniel Lee (persona 4)  pediatrician who is a very conscientious and responsible doctor._
