@@ -92,3 +92,15 @@ This understanding will guide the design and functionality of our app to better 
 **The personas were made using the figma user template, which you can see at the following link:https://www.figma.com/file/Y7uYhA0ewSjk0DOUzPYXU5/User-Persona-Template-(Google-UX-Themed)-(Community)?type=whiteboard&t=YiwEbhYcarIYLVN1-6**
 
 **Link za vizualni prikaz sitemapa:https://www.figma.com/file/BMtBDqxCIBP3KlYM0egO0L/Site-map-template-(Community)?type=design&t=0qNRDQ1oK9r50MUU-6**
+
+**ChatGPT prompts that used to configure sitemap:**
+1. _Propose a set of 10 topics related to vaccanation._
+2. _Assume the role of persona 1 and categorize and label the proposed topics. Persona 1 represents a category of pediatrian doctor with great empathy._
+3. _Next, act as persona 2 pediatrician doctor  and run the same task. Persona 2 is  a person who is focused on highly verified vaccines._
+4. _As Persona 3, a pediatrician who is not sufficiently educated about all the side effects of vaccines, I would approach categorizing and labeling vaccination topics with a focus on learning and gaining a better understanding of vaccines and their safety._
+5. _ok, persona 4  pediatrician who is a very conscientious and responsible doctor._
+6. _Combine the resulting categories for all personas._
+7. _What is information architecture in UX design? What is a cart sorting method in UX design? What sorting method is best for ous?_
+8. _Based on the combined categories propose a detailed sitemap for my web application for child vaccination registry._
+
+A sitemap was created based on ChatGPT queries, personas and sorting method.
