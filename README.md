@@ -1,0 +1,1 @@
+Analiza otvorenog kataloga egzoplaneta.
