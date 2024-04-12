@@ -187,7 +187,7 @@ NO_MATCH    .
                else {
                    BEGIN(INITIAL);
                    *string_buf_ptr = '\0';
-                   cool_yylval.symbol =                 stringtable.add_string(string_buf);            
+                   cool_yylval.symbol = stringtable.add_string(string_buf);            
                    return (STR_CONST);
                }
            }
