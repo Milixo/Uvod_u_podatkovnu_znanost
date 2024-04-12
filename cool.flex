@@ -98,7 +98,7 @@ int curr_lineno;
 extern
 int verbose_flag;
 
-int commentLvl
+int comN
 =
 0;
 
@@ -249,7 +249,7 @@ NO_MATCH    .
 {BEGIN_COMMENT}    
 { 
 
-               commentLvl++;
+               comN++;
 
                BEGIN(COMMENT);
 
@@ -268,7 +268,7 @@ NO_MATCH    .
            }
 
 <COMMENT>{BEGIN_COMMENT}
-{ commentLvl++; }
+{ comN++; }
 
 <COMMENT>\n    
 { curr_lineno++; }
@@ -277,9 +277,9 @@ NO_MATCH    .
 
 <COMMENT>{END_COMMENT}  {
 
-               commentLvl--;
+               comN--;
 
-               if(commentLvl
+               if(comN
 ==
 0) {
 
